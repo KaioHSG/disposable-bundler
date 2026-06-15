@@ -1,3 +1,4 @@
-@echo Hello world!
-@start /b /wait .\ola.bat
-@exit
+echo Hello world!
+call ola.cmd
+pause
+exit /b
